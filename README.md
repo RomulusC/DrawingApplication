@@ -1,3 +1,3 @@
 ## A simple 2D Windows Forms Drawing Application
-
+## Edid: This codebase doesnt use matrices. Quite embarrassing... 
 ![output result](example.gif)
